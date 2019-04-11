@@ -1,8 +1,8 @@
 # typescript-master
 
 ```bash
-git clone https://github.com/betodoescher/nodejs-basico.git
-cd nodejs-basico
+git clone https://github.com/betodoescher/typescript-master.git
+cd typescript-master
 
 ```
 
